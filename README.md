@@ -1,27 +1,14 @@
 # ss-ca
 
-1. use chrome or firefox open `html\index.html`
-2. copy command into shell 
+1. access [https://leobest2.github.io/ss-ca/](https://leobest2.github.io/ss-ca/)  
+2. copy generated command into linux shell
+3. install root ca and view server cert
 
-## Project setup
-```
-npm install
-```
+![](./docs/img/1.PNG)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![](./docs/img/2.PNG)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![](./docs/img/3.PNG)
 
-### Lints and fixes files
-```
-npm run lint
-```
+![](./docs/img/4.PNG)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
